@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://leon-fenzl.github.io/ocelot/static/css/main.3f9d322a.css",
+    "main.js": "https://leon-fenzl.github.io/ocelot/static/js/main.8f381dae.js",
+    "index.html": "https://leon-fenzl.github.io/ocelot/index.html",
+    "main.3f9d322a.css.map": "https://leon-fenzl.github.io/ocelot/static/css/main.3f9d322a.css.map",
+    "main.8f381dae.js.map": "https://leon-fenzl.github.io/ocelot/static/js/main.8f381dae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f9d322a.css",
+    "static/js/main.8f381dae.js"
+  ]
+}
