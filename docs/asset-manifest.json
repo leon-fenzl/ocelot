@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "https://leon-fenzl.github.io/ocelot/static/css/main.52043995.css",
-    "main.js": "https://leon-fenzl.github.io/ocelot/static/js/main.47dd821b.js",
-    "static/media/logo.png": "https://leon-fenzl.github.io/ocelot/static/media/logo.e75d514cf5dfcd370045.png",
-    "index.html": "https://leon-fenzl.github.io/ocelot/index.html",
-    "main.52043995.css.map": "https://leon-fenzl.github.io/ocelot/static/css/main.52043995.css.map",
-    "main.47dd821b.js.map": "https://leon-fenzl.github.io/ocelot/static/js/main.47dd821b.js.map"
+    "main.css": "ocelot.games/static/css/main.87049f10.css",
+    "main.js": "ocelot.games/static/js/main.2d85f0a0.js",
+    "static/media/logo.png": "ocelot.games/static/media/logo.e75d514cf5dfcd370045.png",
+    "index.html": "ocelot.games/index.html",
+    "main.87049f10.css.map": "ocelot.games/static/css/main.87049f10.css.map",
+    "main.2d85f0a0.js.map": "ocelot.games/static/js/main.2d85f0a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.52043995.css",
-    "static/js/main.47dd821b.js"
+    "static/css/main.87049f10.css",
+    "static/js/main.2d85f0a0.js"
   ]
 }
