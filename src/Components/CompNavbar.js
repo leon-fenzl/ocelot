@@ -5,7 +5,7 @@ export default function CompNavbar(){
   return(
     <div className="custom-navbar">
       <div className="LOGO">
-        <Link to="/ocelot.games" className="link"><h1><p>Ocelot Game Studio</p></h1></Link>
+        <Link to="/*" className="link"><h1><p>Ocelot Game Studio</p></h1></Link>
       </div>
       <div className="flex-menu">
         <div className="mobileMenu">
