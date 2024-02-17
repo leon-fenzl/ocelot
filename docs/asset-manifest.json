@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "ocelot.games/static/css/main.87049f10.css",
-    "main.js": "ocelot.games/static/js/main.2d85f0a0.js",
-    "static/media/logo.png": "ocelot.games/static/media/logo.e75d514cf5dfcd370045.png",
-    "index.html": "ocelot.games/index.html",
-    "main.87049f10.css.map": "ocelot.games/static/css/main.87049f10.css.map",
-    "main.2d85f0a0.js.map": "ocelot.games/static/js/main.2d85f0a0.js.map"
+    "main.css": "https://ocelot.games/static/css/main.87049f10.css",
+    "main.js": "https://ocelot.games/static/js/main.b24277b2.js",
+    "static/media/logo.png": "https://ocelot.games/static/media/logo.e75d514cf5dfcd370045.png",
+    "index.html": "https://ocelot.games/index.html",
+    "main.87049f10.css.map": "https://ocelot.games/static/css/main.87049f10.css.map",
+    "main.b24277b2.js.map": "https://ocelot.games/static/js/main.b24277b2.js.map"
   },
   "entrypoints": [
     "static/css/main.87049f10.css",
-    "static/js/main.2d85f0a0.js"
+    "static/js/main.b24277b2.js"
   ]
 }
