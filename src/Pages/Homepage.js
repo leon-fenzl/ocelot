@@ -1,15 +1,19 @@
 import React from "react";
 import Navbar from "../Components/CompNavbar.js";
 import Footer from "../Components/CompFooter.js";
-import "../Styles/grid.css"
+import "../Styles/home.css"
+import logo from "../imgs/logo.png";
 export default function Homepage(){
   return(
-      <div className="grid">
-        <nav><Navbar/></nav>
-        <div className="empty-1"></div>
-        <div className="contents"><h1>Home Content</h1></div>
-        <div className="empty-2"></div>
-        <footer><Footer/></footer>
+      <div className="home-grid">
+        <div className="tops"></div>
+        <div className="hempty1"></div>
+        <div className="contents">
+            <img src={logo}/>
+            <p className="email">OCELOTGAMEDEVSTUDIO@GMAIL.COM</p>
+        </div>
+        <div className="hempty2"></div>
+        <div className="bottoms"></div>
       </div>
   );
 }

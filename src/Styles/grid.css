@@ -14,18 +14,16 @@ nav{
 }
 .empty1{
   grid-area:empty1 ;
-  background-color: bisque;
 }
 .contents{
   grid-area: contents;
   display: flex;
-  background-color: red;
   justify-content: center;
   align-items: center;
 }
+
 .empty2{
   grid-area: empty2;
-  background-color: bisque;
 }
 footer{
   grid-area: footer;
